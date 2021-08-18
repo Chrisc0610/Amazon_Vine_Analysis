@@ -24,4 +24,5 @@
 - 38.9% of the five_star reviews were non-vine
 
 ## Summary: 
--After I had come up with my analysis there does not appear to be any sort of positivity bias because the percentages shown above are very similar at 38%. To conclude the analysis the vine program does not show any bias.
+-There does not appear to be any sort of positivity bias because the percentages shown above are very similar at 38%. 
+-The vine program does not show any bias.
